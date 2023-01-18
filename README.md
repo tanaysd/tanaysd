@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanaysd
 - 👀 I’m interested in Applied Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Python & Deep Learning
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me 
 
