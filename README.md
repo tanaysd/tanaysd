@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tanaysd
-- 👀 I’m interested in Inference Engineering
+- 👀 I’m interested in Recommendation Systems & Inference Engineering
 - 🌱 I’m currently learning about World Models
