@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Tanay (@tanaysd)
 
-I’m a Machine Learning Engineer focused on AI infrastructure, large-scale systems, and core AI research.
+I’m an Artificial Intelligence Engineer focused on AI infrastructure, large-scale systems, and core AI research.
 
 #### 🚀 Current Builds & Platforms
 * **[TorchDigest](https://torchdigest.tanaysood.ai/)** – A curated digest for technical PyTorch and inference optimization insights.
